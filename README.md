@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/unrealengine5-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 </p>
 
+<br/>
 
 <h2 align="center">🏢 Career 🏢 </h2>
 
@@ -44,4 +45,4 @@
 <br/>
 
 <h2 align="center">🛠 My Stats 🛠 </h2>
-![Goroti's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoRoti-KR&show_icons=true&theme=radical)
+![Goroti's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoRoti&show_icons=true&theme=radical)
