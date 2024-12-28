@@ -3,15 +3,7 @@
 
 <br/>
 
-| 기간 | 소속 | 비고 |
-|---|---|---|
-| 2016.3 ~ 2019.2 | 창원대산고등학교 | 주남저수지에코레인저, 4-H |
-| 2019.3 ~ 2020.2 | 건국대학교 사회환경공학부 | 입학 |
-| 2020.3 ~ 2021.12 | 공군 제18전투비행단 | 기지방호전대 으뜸병사 |
-| 2022.3 ~ 2025.8 | 건국대학교 스마트ICT융합공학과(산업공학과[다전공]) | 전과 및 다전공 |
-<br/>
-
-<h2 align="center">🛠 Skill 🛠 </h2>
+<h2 align="center">🛠 Skill 🛠</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -32,7 +24,7 @@
 
 <br/>
 
-<h2 align="center">🎖️ Prize 🎖️ </h2>
+<h2 align="center">🎖️ Prize 🎖️</h2>
 
 | 날짜 | 대회명 | 주제 | 수상 | 주관 |
 |---|---|---|---| ---|
@@ -42,7 +34,7 @@
 
 <br/>
 
-<h2 align="center">🛠 Projects 🛠 </h2>
+<h2 align="center">🛠 Projects 🛠</h2>
 
 | 날짜 | 과제 명 | 직책 | 설명 |
 |---|---|---|---|
@@ -52,7 +44,7 @@
 
 <br/>
 
-<h2 align="center">🛠 My Stats 🛠 </h2>
+<h2 align="center">🛠 My Stats 🛠</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
@@ -63,3 +55,11 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=GoRoti-KR&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 Reference: https://hulrud.tistory.com/3
+
+<h2 align="center">🔦 My Journey 🔦</h2>
+| 기간 | 소속 | 비고 |
+|---|---|---|
+| 2016.3 ~ 2019.2 | 창원대산고등학교 | 주남저수지에코레인저, 4-H |
+| 2019.3 ~ 2020.2 | 건국대학교 사회환경공학부 | 입학 |
+| 2020.3 ~ 2021.12 | 공군 제18전투비행단 | 기지방호전대 으뜸병사 |
+| 2022.3 ~ 2025.8 | 건국대학교 스마트ICT융합공학과(산업공학과[다전공]) | 전과 및 다전공 |
