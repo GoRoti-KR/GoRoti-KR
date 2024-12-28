@@ -3,8 +3,15 @@
 
 <br/>
 
-<h2 align="center">🛠 Skill  🛠 </h2>
+| 기간 | 소속 | 비고 |
+|---|---|---|
+| 2016.3 ~ 2019.2 | 창원대산고등학교 | 주남저수지에코레인저, 4-H |
+| 2019.3 ~ 2020.2 | 건국대학교 사회환경공학부 | 입학 |
+| 2020.3 ~ 2021.12 | 공군 제18전투비행단 | 기지방호전대 으뜸병사 |
+| 2022.3 ~ 2025.8 | 건국대학교 스마트ICT융합공학과(산업공학과[다전공]) | 전과 및 다전공 |
+<br/>
 
+<h2 align="center">🛠 Skill 🛠 </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -29,6 +36,7 @@
 
 | 날짜 | 대회명 | 주제 | 수상 | 주관 |
 |---|---|---|---| ---|
+| 2023.8 | 2023 대학생 그린(Green)모빌리티 창업캠프 | AI 감정일기 LineDot | 대상 | 건국대학교 공학교육혁신사업단 |
 | 2024.1.31 | CDE DX Awards 2023 | 장려상, 특별상 | [비전 기반 레거시 장비 HMI 적정 모니터링 도구](https://www.konkuk.ac.kr/bbs/kies/781/829302/artclView.do?layout=unknown) | 한국CDE학회 |
 | 2024.1.30 | 2024 동계학술대회 | 우수포스터상 | [심층 전이학습 기반 봉제선 불량 검출 모델 연구](https://www.konkuk.ac.kr/bbs/kies/781/5729/artclView.do?layout=unknown) | 한국CDE학회 |
 
