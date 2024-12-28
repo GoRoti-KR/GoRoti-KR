@@ -12,6 +12,7 @@
 
 
 <h2 align="center">🛠 Career 🛠 </h2>
+
 | 날짜 | 소속 | 설명 | 
 |---|---|---|
 | 2022.01 ~ 22.11 | 제 14기 기상청 국민참여 기자단 | [7월 이달의 우수기자](https://blog.naver.com/kma_131/222795011095?trackingCode=blog_bloghome_searchlist) |
@@ -20,6 +21,7 @@
 
 
 <h2 align="center">🛠 Prize 🛠 </h2>
+
 | 날짜 | 대회명 | 주제 | 수상 | 주관 |
 |---|---|---|---|
 | 2024.1.31 | CDE DX Awards 2023 | 장려상, 특별상 | [비전 기반 레거시 장비 HMI 적정 모니터링 도구](https://www.konkuk.ac.kr/bbs/kies/781/829302/artclView.do?layout=unknown) | 한국CDE학회 |
@@ -28,6 +30,7 @@
 
 
 <h2 align="center">🛠 Projects 🛠 </h2>
+
 | 날짜 | 과제 명 | 직책 | 설명 |
 |---|---|---|---|
 | 2023.09 ~ 2026.02 | 비전 모니터링과 딥러닝을 이용한 적정 제조 디지털 트윈 플랫폼 연구 (과학기술정보통신부 / 한국연구재단) | 참여연구원(학생연구원) | 봉제불량검출 모델 개발, Safe Digital Twin 개발 |
