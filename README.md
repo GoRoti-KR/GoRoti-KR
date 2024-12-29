@@ -34,6 +34,16 @@
 
 <br/>
 
+<h2 align="center"> 📖 Paper 📖</h2>
+
+| 날짜 | 주제 | 저자 | 저널명 | 역할 |
+|---|---|---|---|---|
+| 2024.12(Under Review) | Sewing stitch defect detection(future updates) | future updates | future updates | 전이학습 모델 설계 및 성능 테스트 | 
+| 2025.1(Expected) | Real-time Safe Digital Twin(TBD) | TBD | future updates | 가상환경 모델링 및 설계 | 
+
+
+<br/>
+
 <h2 align="center">🛠 Projects 🛠</h2>
 
 | 날짜 | 과제 명 | 직책 | 설명 |
