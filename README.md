@@ -31,8 +31,8 @@
 | 날짜 | 대회명 | 주제 | 수상 | 주관 |
 |---|---|---|---| ---|
 | 2023.8 | 2023 대학생 그린(Green)모빌리티 창업캠프 | AI 감정일기 LineDot | 대상 | 건국대학교 공학교육혁신사업단 |
-| 2024.1.31 | CDE DX Awards 2023 | 장려상, 특별상 | [비전 기반 레거시 장비 HMI 적정 모니터링 도구](https://www.konkuk.ac.kr/bbs/kies/781/829302/artclView.do?layout=unknown) | 한국CDE학회 |
-| 2024.1.30 | 2024 동계학술대회 | 우수포스터상 | [심층 전이학습 기반 봉제선 불량 검출 모델 연구](https://www.konkuk.ac.kr/bbs/kies/781/5729/artclView.do?layout=unknown) | 한국CDE학회 |
+| 2024.1.31 | CDE DX Awards 2023 | [비전 기반 레거시 장비 HMI 적정 모니터링 도구](https://www.konkuk.ac.kr/bbs/kies/781/829302/artclView.do?layout=unknown) | 장려상, 특별상 | 한국CDE학회 |
+| 2024.1.30 | 2024 동계학술대회 | [심층 전이학습 기반 봉제선 불량 검출 모델 연구](https://www.konkuk.ac.kr/bbs/kies/781/5729/artclView.do?layout=unknown) | 우수포스터상 | 한국CDE학회 |
 
 <br/>
 
