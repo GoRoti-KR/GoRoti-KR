@@ -31,9 +31,9 @@
 | 날짜 | 대회명 | 주제 | 수상 | 주관 |
 |---|---|---|---| ---|
 | 2023.8 | 2023 대학생 그린(Green)모빌리티 창업캠프 | AI 감정일기 LineDot | 대상 | 건국대학교 공학교육혁신사업단 |
-| 2024.1.31 | CDE DX Awards 2023 | [비전 기반 레거시 장비 HMI 적정 모니터링 도구](https://www.konkuk.ac.kr/bbs/kies/781/829302/artclView.do?layout=unknown) | 장려상, 특별상 | 한국CDE학회 |
-| 2024.1.30 | 2024 동계학술대회 | [심층 전이학습 기반 봉제선 불량 검출 모델 연구](https://www.konkuk.ac.kr/bbs/kies/781/5729/artclView.do?layout=unknown) | 우수포스터상 | 한국CDE학회 |
-
+| 2024.1.31 | CDE DX Awards 2023 | [비전 기반 레거시 장비 HMI 적정 모니터링 도구]([https://www.konkuk.ac.kr/bbs/kies/781/829302/artclView.do?layout=unknown](https://cee.konkuk.ac.kr/kies/9991/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa2llcyUyRjc4MSUyRjgyOTMwMiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2c3JjaENvbHVtbiUzRCUyNnNyY2hXcmQlM0QlMjZiYnNDbFNlcSUzRCUyNmJic09wZW5XcmRTZXElM0QlMjZyZ3NCZ25kZVN0ciUzRCUyNnJnc0VuZGRlU3RyJTNEJTI2aXNWaWV3TWluZSUzRGZhbHNlJTI2cGFzc3dvcmQlM0QlMjY%3D)) | 장려상, 특별상 | 한국CDE학회 |
+| 2024.1.30 | 2024 동계학술대회 | [심층 전이학습 기반 봉제선 불량 검출 모델 연구]([https://www.konkuk.ac.kr/bbs/kies/781/5729/artclView.do?layout=unknown](https://cee.konkuk.ac.kr/kies/9991/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa2llcyUyRjc4MSUyRjU3MjklMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhc3N3b3JkJTNEJTI2)) | 우수포스터상 | 한국CDE학회 |
+| 2024.1.30 | 2024 동계학술대회 | [FDM 문제해결 지식 베이스 구축을 위한 RAG 기반 질의응답 모델 연구]([https://www.konkuk.ac.kr/bbs/kies/781/5729/artclView.do?layout=unknown](https://cee.konkuk.ac.kr/kies/9991/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa2llcyUyRjc4MSUyRjExNDQ0MjUlMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhc3N3b3JkJTNEJTI2)) | 우수포스터상 | 한국CDE학회 |
 <br/>
 
 <h2 align="center"> 📖 Paper 📖</h2>
