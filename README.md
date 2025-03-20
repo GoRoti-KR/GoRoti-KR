@@ -40,8 +40,8 @@
 
 | 날짜 | 주제 | 저자 | 저널명 | 역할 |
 |---|---|---|---|---|
-| 2025.3(In Revision) | Sewing stitch defect detection(future updates) | future updates | future updates | 전이학습 모델 설계 및 성능 테스트 | 
-| 2025.3(Expected) | Real-time Safe Digital Twin(TBD) | TBD | future updates | 가상환경 모델링 및 설계 | 
+| 2025.3(Under Review-2nd) | Sewing stitch defect detection(future updates) | future updates | Journal of Computational Design and Engineering | 전이학습 모델 설계 및 성능 테스트 | 
+| 2025.3(Under Review-1st) | Real-time Safe Digital Twin(TBD) | TBD | IEEE Access | 가상환경 모델링 및 설계 | 
 
 
 <br/>
