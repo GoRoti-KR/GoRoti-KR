@@ -40,8 +40,8 @@
 
 | 날짜 | 주제 | 저자 | 저널명 | 역할 |
 |---|---|---|---|---|
-| 2025.3(Under Review-2nd) | Sewing stitch defect detection(future updates) | future updates | Journal of Computational Design and Engineering | 전이학습 모델 설계 및 성능 테스트 | 
-| 2025.3(Under Review-1st) | Real-time Safe Digital Twin(TBD) | TBD | IEEE Access | 가상환경 모델링 및 설계 | 
+| 2025.3(Accept) | StitchingNet and deep transfer learning method for sewing stitch defect detection | Jung, W.K., Kang, J., Kwon, W., and Kim, H. | Journal of Computational Design and Engineering | 전이학습 모델 설계 및 성능 테스트 | 
+| 2025.3(Under Review-1st) | Real-time Safe Digital Twin(TBD) | Kwon, W., Yang, J., Song, S., Lee, J., and Kim, H. | IEEE Access | 가상환경 모델링 및 설계 | 
 
 
 <br/>
