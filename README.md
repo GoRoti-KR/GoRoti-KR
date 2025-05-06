@@ -41,7 +41,7 @@
 | 날짜 | 주제 | 저자 | 저널명 | 역할 |
 |---|---|---|---|---|
 | 2025.3(Accept) | [StitchingNet and deep transfer learning method for sewing stitch defect detection](https://academic.oup.com/jcde/advance-article/doi/10.1093/jcde/qwaf037/8100483?searchresult=1) | Jung, W.K., Kang, J., Kwon, W., and Kim, H. | Journal of Computational Design and Engineering | 전이학습 모델 설계 및 성능 테스트 | 
-| 2025.3(Under Review-1st) | Real-time digital-twin-based cobot–worker collision risk prediction using Unity, ROS, and UWB | Kwon, W., Yang, J., Song, S., Lee, J., and Kim, H. | IEEE Access | 가상환경 모델링 및 설계 | 
+| 2025.5(Accept) | Real-time digital-twin-based cobot–worker collision risk prediction using Unity, ROS, and UWB | Kwon, W., Yang, J., Song, S., Lee, J., and Kim, H. | IEEE Access | 기획, 가상환경 모델링 및 모니터링 설계, 테스트, 논문 작성 | 
 
 
 <br/>
