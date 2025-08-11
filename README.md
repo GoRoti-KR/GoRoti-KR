@@ -17,12 +17,23 @@
 
 <br/>
 
+<h2 align="center">🔦 My Journey 🔦</h2>
+
+| 기간 | 소속 | 비고 |
+|---|---|---|
+| 2016.3 ~ 2019.2 | 창원대산고등학교 | 주남저수지에코레인저, 4-H |
+| 2019.3 ~ 2020.2 | 건국대학교 사회환경공학부 | 입학 |
+| 2020.3 ~ 2021.12 | 공군 제18전투비행단 | 기지방호전대 으뜸병사 |
+| 2022.3 ~ 2025.8 | 건국대학교 스마트ICT융합공학과(산업공학과[다전공]) | 전과 및 다전공 (졸업) |
+| 2025.8 ~ 2027.8 | 건국대학교 일반대학원 산업공학과 ICT융합제조연구실 | 석사과정 |
+<br/>
+
 <h2 align="center">🏢 Career 🏢 </h2>
 
 | 날짜 | 소속 | 직책 | 설명 | 
 |---|---|---|---|
 | 2022.01 ~ 22.11 | 제 14기 기상청 국민참여 기자단 | 블로그 기자 | [7월 이달의 우수기자](https://blog.naver.com/kma_131/222795011095?trackingCode=blog_bloghome_searchlist) |
-| 2023.09 ~ present | [건국대학교 ICT융합제조연구실](https://sites.google.com/view/kuictm/people/member?authuser=0) | 학생연구원(학부연구생) | Digital Twin, Deep/Transfer Learning, Computer Vision, LLM&RAG|
+| 2023.09 ~ 2025.08 | [건국대학교 ICT융합제조연구실](https://sites.google.com/view/kuictm/people/member?authuser=0) | 학생연구원(학부연구생) | Digital Twin, Deep/Transfer Learning, Computer Vision, LLM&RAG|
 
 <br/>
 
@@ -71,11 +82,4 @@ Reference: https://hulrud.tistory.com/3
 <br/>
 <br/>
 
-<h2 align="center">🔦 My Journey 🔦</h2>
 
-| 기간 | 소속 | 비고 |
-|---|---|---|
-| 2016.3 ~ 2019.2 | 창원대산고등학교 | 주남저수지에코레인저, 4-H |
-| 2019.3 ~ 2020.2 | 건국대학교 사회환경공학부 | 입학 |
-| 2020.3 ~ 2021.12 | 공군 제18전투비행단 | 기지방호전대 으뜸병사 |
-| 2022.3 ~ 2025.8 | 건국대학교 스마트ICT융합공학과(산업공학과[다전공]) | 전과 및 다전공 |
