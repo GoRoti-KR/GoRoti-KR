@@ -32,7 +32,7 @@
 
 | 날짜 | 소속 | 직책 | 설명 | 
 |---|---|---|---|
-| 2022.01 ~ 22.11 | 제 14기 기상청 국민참여 기자단 | 블로그 기자 | [7월 이달의 우수기자](https://blog.naver.com/kma_131/222795011095?trackingCode=blog_bloghome_searchlist) |
+| 2022.01 ~ 2022.11 | 제 14기 기상청 국민참여 기자단 | 블로그 기자 | [7월 이달의 우수기자](https://blog.naver.com/kma_131/222795011095?trackingCode=blog_bloghome_searchlist) |
 | 2023.09 ~ 2025.08 | [건국대학교 ICT융합제조연구실](https://sites.google.com/view/kuictm/people/member?authuser=0) | 학생연구원(학부연구생) | Digital Twin, Deep/Transfer Learning, Computer Vision, LLM&RAG|
 
 <br/>
