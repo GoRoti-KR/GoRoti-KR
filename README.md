@@ -70,7 +70,7 @@
 | 2026.2 | 2026 동계학술대회 (Poster) | (Domestic) 한국CDE학회 | 진동 및 레거시 제조장비 HMI 대응 적정 OCR 프레임워크 연구 | 권우진, 김형국, 안성환, 김형중 | 
 | 2026.2 | 2026 동계학술대회 (Session) | (Domestic) 한국CDE학회 | StitchingNet-Seg: 봉제 불량 의미적 분할 데이터셋 구축 및 활용 | 김형중, 박준혁, 권우진, 정우균 | 
 | 2026.5 | 대한용접·접합학회 2026 춘계학술대회 (Session) | (Domestic) 대한용접·접합학회 | AE 신호 기반 와이어 아크 적층제조 공정 이상 탐지용 딥러닝 모델 연구 | 김형중, 박준혁, 권우진, 정우균 | 
-| 2026.7 | International Conference on Precision Engineering and Sustainable Manufacturing (PRESM2026) (Poster) | (International) Korean Society for Precision Engineering (KSPE) | AE 신호 기반 와이어 아크 적층제조 공정 이상 탐지용 딥러닝 모델 연구 | Kwon, W. and Kim, H | 
+| 2026.7 | International Conference on Precision Engineering and Sustainable Manufacturing (PRESM2026) (Poster) | (International) Korean Society for Precision Engineering (KSPE) | Sewing stitch defect detection using YOLOv11 and transfer learning approach | Kwon, W. and Kim, H | 
 <br/>
 
 <h2 align="center">🛠 Projects 🛠</h2>
