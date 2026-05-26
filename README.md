@@ -54,7 +54,7 @@
 |---|---|---|---|---|
 | 2025.3(Accept) | [StitchingNet and deep transfer learning method for sewing stitch defect detection](https://doi.org/10.1093/jcde/qwaf037) | Jung, W.K., Kang, J., Kwon, W., and Kim, H. | Journal of Computational Design and Engineering | 전이학습 모델 설계 및 성능 테스트 | 
 | 2025.5(Accept) | [Real-time digital-twin-based cobot–worker collision risk prediction using Unity, ROS, and UWB](https://doi.org/10.1109/ACCESS.2025.3569332) | Kwon, W., Yang, J., Song, S., Lee, J., and Kim, H. | IEEE Access | 기획, 가상환경 모델링 및 모니터링 설계, 테스트, 논문 작성 | 
-
+| Under Revision | Digital twin-based Imitation Learning for Enhancing Human-like Driving Efficiency of Mobile Robots in Factory Environments | Song, S., Kwon, W., Oh, J., Kim, H., and Lee, J. | International Journal of Precision Engineering and Manufacturing | 가상환경 모델링 및 모니터링 설계, 테스트 | 
 
 <br/>
 
@@ -69,7 +69,8 @@
 | 2025.5 | 2025 춘계학술대회 (Session) | (Domestic) 대한용접·접합학회 | 데이터 융합 기반 멀티모달 공정 데이터 프레임워크 모델 연구 | 양지은, 안강민, 권우진, 이예원, 윤서영, 김형중 | 
 | 2026.2 | 2026 동계학술대회 (Poster) | (Domestic) 한국CDE학회 | 진동 및 레거시 제조장비 HMI 대응 적정 OCR 프레임워크 연구 | 권우진, 김형국, 안성환, 김형중 | 
 | 2026.2 | 2026 동계학술대회 (Session) | (Domestic) 한국CDE학회 | StitchingNet-Seg: 봉제 불량 의미적 분할 데이터셋 구축 및 활용 | 김형중, 박준혁, 권우진, 정우균 | 
-
+| 2026.5 | 대한용접·접합학회 2026 춘계학술대회 (Session) | (Domestic) 대한용접·접합학회 | AE 신호 기반 와이어 아크 적층제조 공정 이상 탐지용 딥러닝 모델 연구 | 김형중, 박준혁, 권우진, 정우균 | 
+| 2026.7 | International Conference on Precision Engineering and Sustainable Manufacturing (PRESM2026) (Poster) | (International) Korean Society for Precision Engineering (KSPE) | AE 신호 기반 와이어 아크 적층제조 공정 이상 탐지용 딥러닝 모델 연구 | Kwon, W. and Kim, H | 
 <br/>
 
 <h2 align="center">🛠 Projects 🛠</h2>
