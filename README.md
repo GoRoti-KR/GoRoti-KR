@@ -54,9 +54,9 @@
 | 날짜 | 주제 | 저자 | 저널명 | 역할 |
 |---|---|---|---|---|
 | 2025.3(Accept) | [StitchingNet and deep transfer learning method for sewing stitch defect detection](https://doi.org/10.1093/jcde/qwaf037) | Jung, W.K., Kang, J., Kwon, W., and Kim, H. | Journal of Computational Design and Engineering | 전이학습 모델 설계 및 성능 테스트 | 
-| 2025.5(Accept) | [Real-time digital-twin-based cobot–worker collision risk prediction using Unity, ROS, and UWB](https://doi.org/10.1109/ACCESS.2025.3569332) | Kwon, W., Yang, J., Song, S., Lee, J., and Kim, H. | IEEE Access | 기획, 가상환경 모델링 및 모니터링 설계, 테스트, 논문 작성 | 
-| Under Revision | Digital twin-based Imitation Learning for Enhancing Human-like Driving Efficiency of Mobile Robots in Factory Environments | Song, S., Kwon, W., Oh, J., Kim, H., and Lee, J. | International Journal of Precision Engineering and Manufacturing | 가상환경 모델링 및 모니터링 설계, 테스트 | 
-
+| 2025.5(Accept) | [Real-time digital-twin-based cobot–worker collision risk prediction using Unity, ROS, and UWB](https://doi.org/10.1109/ACCESS.2025.3569332) | Kwon, W., Yang, J., Song, S., Lee, J., and Kim, H. | IEEE Access | (주저자) 기획, 가상환경 모델링 및 모니터링 설계, 테스트, 논문 작성 | 
+| 2026.8(Accept) | Digital twin-based imitation learning for human-like and efficient driving of mobile robots in virtual factory environments | Song, S., Kwon, W., Oh, J., Kim, H., and Lee, J. | International Journal of Precision Engineering and Manufacturing | 가상환경 모델링 및 모니터링 설계, 테스트 | 
+| Writing | TBC | TBC | (주저자) 기획, 방법론 설계 및 테스트, 논문 작성 | 
 <br/>
 
 <h2 align="center"> 📖 Conference 📖</h2>
@@ -84,16 +84,6 @@
 
 <br/>
 
-<h2 align="center">🛠 My Stats 🛠</h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GoRoti-KR&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
-Reference: https://hulrud.tistory.com/3
 
-<br/>
-<br/>
 
 
