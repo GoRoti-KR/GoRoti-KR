@@ -72,9 +72,9 @@
 | 2026.2 | 2026 동계학술대회 (Session) | (Domestic) 한국CDE학회 | StitchingNet-Seg: 봉제 불량 의미적 분할 데이터셋 구축 및 활용 | 김형중, 박준혁, 권우진, 정우균 | 
 | 2026.5 | 대한용접·접합학회 2026 춘계학술대회 (Session) | (Domestic) 대한용접·접합학회 | AE 신호 기반 와이어 아크 적층제조 공정 이상 탐지용 딥러닝 모델 연구 | 양지은, 권우진, 김형중, 박봉경, 허세곤 | 
 | 2026.7 | International Conference on Precision Engineering and Sustainable Manufacturing (PRESM2026) (Poster) | (International) Korean Society for Precision Engineering (KSPE) | Sewing stitch defect detection using YOLOv11 and transfer learning approach | Kwon, W. and Kim, H |
-| 2026.8 | 2026 동계학술대회 (Poster) | (Domestic) 한국CDE학회 | TBC | TBC | 
-| 2026.8 | 2026 동계학술대회 (Poster) | (Domestic) 한국CDE학회 | TBC | TBC | 
-| 2026.8 | 2026 동계학술대회 (Session) | (Domestic) 한국CDE학회 | TBC | TBC |
+| 2026.8 | 2026 하계학술대회 (Poster) | (Domestic) 한국CDE학회 | TBC | TBC | 
+| 2026.8 | 2026 하계학술대회 (Poster) | (Domestic) 한국CDE학회 | TBC | TBC | 
+| 2026.8 | 2026 하계학술대회 (Session) | (Domestic) 한국CDE학회 | TBC | TBC |
 
 <br/>
 
