@@ -53,9 +53,9 @@
 
 | 날짜 | 주제 | 저자 | 저널명 | 역할 |
 |---|---|---|---|---|
-| 2025.3(Accept) | [StitchingNet and deep transfer learning method for sewing stitch defect detection](https://doi.org/10.1093/jcde/qwaf037) | Jung, W.K., Kang, J., Kwon, W., and Kim, H. | Journal of Computational Design and Engineering | 전이학습 모델 설계 및 성능 테스트 | 
-| 2025.5(Accept) | [Real-time digital-twin-based cobot–worker collision risk prediction using Unity, ROS, and UWB](https://doi.org/10.1109/ACCESS.2025.3569332) | Kwon, W., Yang, J., Song, S., Lee, J., and Kim, H. | IEEE Access | (주저자) 기획, 가상환경 모델링 및 모니터링 설계, 테스트, 논문 작성 | 
-| 2026.8(Accept) | Digital twin-based imitation learning for human-like and efficient driving of mobile robots in virtual factory environments | Song, S., Kwon, W., Oh, J., Kim, H., and Lee, J. | International Journal of Precision Engineering and Manufacturing | 가상환경 모델링 및 모니터링 설계, 테스트 | 
+| 2025.3(Accept) | [StitchingNet and deep transfer learning method for sewing stitch defect detection](https://doi.org/10.1093/jcde/qwaf037) | Jung, W.K., Kang, J., __Kwon, W.__, and Kim, H. | Journal of Computational Design and Engineering | 전이학습 모델 설계 및 성능 테스트 | 
+| 2025.5(Accept) | [Real-time digital-twin-based cobot–worker collision risk prediction using Unity, ROS, and UWB](https://doi.org/10.1109/ACCESS.2025.3569332) | __Kwon, W.__, Yang, J., Song, S., Lee, J., and Kim, H. | IEEE Access | (주저자) 기획, 가상환경 모델링 및 모니터링 설계, 테스트, 논문 작성 | 
+| 2026.8(Accept) | Digital twin-based imitation learning for human-like and efficient driving of mobile robots in virtual factory environments | Song, S., __Kwon, W.__, Oh, J., Kim, H., and Lee, J. | International Journal of Precision Engineering and Manufacturing | 가상환경 모델링 및 모니터링 설계, 테스트 | 
 | Writing | TBC | TBC | (주저자) 기획, 방법론 설계 및 테스트, 논문 작성 | 
 <br/>
 
@@ -63,18 +63,18 @@
 
 | 날짜 | 컨퍼런스 | 학회명 | 주제 | 저자 | 
 |---|---|---|---|---|
-| 2024.1 | 2024 동계학술대회 (Poster) | (Domestic) 한국CDE학회 | 심층 전이학습 기반 봉제선 불량 검출 모델 연구 | 권우진, 류석현, 정우균, 김형중 | 
-| 2024.5 | 2024 춘계공동학술대회 (Poster) |(Domestic) 대한산업공학회 | Vision transformer 기반 전이학습을 활용한 봉제 불량 검출 모델 연구 | 권우진, 류석현, 정우균, 김형중 |  
-| 2025.1 | 2025 동계학술대회 (Poster) | (Domestic) 한국CDE학회 | 디지털 트윈 기반 실시간 작업자-로봇 충돌 위험 예측 시스템 | 양지은, 권우진, 송승화, 김형중 | 
-| 2025.1 | 2025 동계학술대회 (Poster) | (Domestic) 한국CDE학회 | FDM 문제해결 지식 베이스 구축을 위한 RAG 기반 질의응답 모델 연구 | 강진구, 우종헌, 권우진, 안강민, 김형중 | 
-| 2025.5 | 2025 춘계학술대회 (Session) | (Domestic) 대한용접·접합학회 | 데이터 융합 기반 멀티모달 공정 데이터 프레임워크 모델 연구 | 양지은, 안강민, 권우진, 이예원, 윤서영, 김형중 | 
-| 2026.2 | 2026 동계학술대회 (Poster) | (Domestic) 한국CDE학회 | 진동 및 레거시 제조장비 HMI 대응 적정 OCR 프레임워크 연구 | 권우진, 김형국, 안성환, 김형중 | 
-| 2026.2 | 2026 동계학술대회 (Session) | (Domestic) 한국CDE학회 | StitchingNet-Seg: 봉제 불량 의미적 분할 데이터셋 구축 및 활용 | 김형중, 박준혁, 권우진, 정우균 | 
-| 2026.5 | 대한용접·접합학회 2026 춘계학술대회 (Session) | (Domestic) 대한용접·접합학회 | AE 신호 기반 와이어 아크 적층제조 공정 이상 탐지용 딥러닝 모델 연구 | 양지은, 권우진, 김형중, 박봉경, 허세곤 | 
-| 2026.7 | International Conference on Precision Engineering and Sustainable Manufacturing (PRESM2026) (Poster) | (International) Korean Society for Precision Engineering (KSPE) | Sewing stitch defect detection using YOLOv11 and transfer learning approach | Kwon, W. and Kim, H |
-| 2026.8 | 2026 하계학술대회 (Poster) | (Domestic) 한국CDE학회 | TBC | TBC | 
-| 2026.8 | 2026 하계학술대회 (Poster) | (Domestic) 한국CDE학회 | TBC | TBC | 
-| 2026.8 | 2026 하계학술대회 (Session) | (Domestic) 한국CDE학회 | TBC | TBC |
+| 2024.1 | 2024 동계학술대회 (Poster) | (Domestic) 한국CDE학회 | 심층 전이학습 기반 봉제선 불량 검출 모델 연구 | __권우진__, 류석현, 정우균, 김형중 | 
+| 2024.5 | 2024 춘계공동학술대회 (Poster) |(Domestic) 대한산업공학회 | Vision transformer 기반 전이학습을 활용한 봉제 불량 검출 모델 연구 | __권우진__, 류석현, 정우균, 김형중 |  
+| 2025.1 | 2025 동계학술대회 (Poster) | (Domestic) 한국CDE학회 | 디지털 트윈 기반 실시간 작업자-로봇 충돌 위험 예측 시스템 | 양지은, __권우진__, 송승화, 김형중 | 
+| 2025.1 | 2025 동계학술대회 (Poster) | (Domestic) 한국CDE학회 | FDM 문제해결 지식 베이스 구축을 위한 RAG 기반 질의응답 모델 연구 | 강진구, 우종헌, __권우진__, 안강민, 김형중 | 
+| 2025.5 | 2025 춘계학술대회 (Session) | (Domestic) 대한용접·접합학회 | 데이터 융합 기반 멀티모달 공정 데이터 프레임워크 모델 연구 | 양지은, 안강민, __권우진__, 이예원, 윤서영, 김형중 | 
+| 2026.2 | 2026 동계학술대회 (Poster) | (Domestic) 한국CDE학회 | 진동 및 레거시 제조장비 HMI 대응 적정 OCR 프레임워크 연구 | __권우진__, 김형국, 안성환, 김형중 | 
+| 2026.2 | 2026 동계학술대회 (Session) | (Domestic) 한국CDE학회 | StitchingNet-Seg: 봉제 불량 의미적 분할 데이터셋 구축 및 활용 | 김형중, 박준혁, __권우진__, 정우균 | 
+| 2026.5 | 대한용접·접합학회 2026 춘계학술대회 (Session) | (Domestic) 대한용접·접합학회 | AE 신호 기반 와이어 아크 적층제조 공정 이상 탐지용 딥러닝 모델 연구 | 양지은, __권우진__, 김형중, 박봉경, 허세곤 | 
+| 2026.7 | International Conference on Precision Engineering and Sustainable Manufacturing (PRESM2026) (Poster) | (International) Korean Society for Precision Engineering (KSPE) | Sewing stitch defect detection using YOLOv11 and transfer learning approach | __Kwon, W__. and Kim, H |
+| 2026.8 | 2026 하계학술대회 (Poster) | (Domestic) 한국CDE학회 | 산업용 이동 로봇의 주행 효율 향상을 위한 모방 학습 연구 | 송승화, __권우진__, 오주영, 김형중, 이준 | 
+| 2026.8 | 2026 하계학술대회 (Poster) | (Domestic) 한국CDE학회 | 공장 내 VLM을 활용한 AMR 실시간 안전 제어 프레임워크 | 박준혁, __권우진__, 강진구, 김형중 | 
+| 2026.8 | 2026 하계학술대회 (Session) | (Domestic) 한국CDE학회 | 디지털 트윈 기반 실시간 로봇-작업자 충돌 안전 예측 방법 연구 | 김형중, 양지은, __권우진__, 송승화, 박준혁, 강진구 |
 
 <br/>
 
