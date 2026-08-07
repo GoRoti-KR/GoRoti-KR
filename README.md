@@ -56,7 +56,7 @@
 | 2025.3(Accept) | [StitchingNet and deep transfer learning method for sewing stitch defect detection](https://doi.org/10.1093/jcde/qwaf037) | Jung, W.K., Kang, J., __Kwon, W.__, and Kim, H. | Journal of Computational Design and Engineering | 전이학습 모델 설계 및 성능 테스트 | 
 | 2025.5(Accept) | [Real-time digital-twin-based cobot–worker collision risk prediction using Unity, ROS, and UWB](https://doi.org/10.1109/ACCESS.2025.3569332) | __Kwon, W.__, Yang, J., Song, S., Lee, J., and Kim, H. | IEEE Access | (주저자) 기획, 가상환경 모델링 및 모니터링 설계, 테스트, 논문 작성 | 
 | 2026.8(Accept) | Digital twin-based imitation learning for human-like and efficient driving of mobile robots in virtual factory environments | Song, S., __Kwon, W.__, Oh, J., Kim, H., and Lee, J. | International Journal of Precision Engineering and Manufacturing | 가상환경 모델링 및 모니터링 설계, 테스트 | 
-| Writing | TBC | TBC | (주저자) 기획, 방법론 설계 및 테스트, 논문 작성 | 
+| Writing | TBC | TBC | TBC | (주저자) 기획, 방법론 설계 및 테스트, 논문 작성 | 
 <br/>
 
 <h2 align="center"> 📖 Conference 📖</h2>
