@@ -47,6 +47,7 @@
 | 2024.1.31 | 2024 동계학술대회 | [심층 전이학습 기반 봉제선 불량 검출 모델 연구](https://cee.konkuk.ac.kr/kies/9991/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa2llcyUyRjc4MSUyRjU3MjklMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhc3N3b3JkJTNEJTI2) | 우수포스터상 | 한국CDE학회 |
 | 2025.2.21 | 2025 동계학술대회 | [FDM 문제해결 지식 베이스 구축을 위한 RAG 기반 질의응답 모델 연구](https://cee.konkuk.ac.kr/kies/9991/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa2llcyUyRjc4MSUyRjExNDQ0MjUlMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhc3N3b3JkJTNEJTI2) | 우수포스터상 | 한국CDE학회 |
 | 2025.11.10 | CDE DX Awards 2025 | 지능형 제조를 위한 지식 보조 프레임워크 개발 | 대학 부문 동상 | 한국CDE학회 |
+| 2026.8 | 2026 하계학술대회 | [공장 내 VLM을 활용한 AMR 실시간 안전 제어 프레임워크](https://www.cde.or.kr/html/?pmode=BBBS0033900001&smode=view&seq=4287) | 우수포스터상 | 한국CDE학회 |
 <br/>
 
 <h2 align="center"> 📖 Paper 📖</h2>
